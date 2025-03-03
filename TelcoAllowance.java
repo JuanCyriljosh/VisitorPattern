@@ -11,6 +11,6 @@ public class TelcoAllowance implements UsagePromo{
 
     @Override
     public String showAllowance(String telcoName, double promoPrice) {
-        return promoMap.get(telcoName) + "GB " + promoPrice + "PHP";
+        return promoMap.get(telcoName) + "GB " + "for " + "₱" + promoPrice + " per month";
     }
 }
