@@ -36,3 +36,6 @@ public class TelcoPromo {
 }
 ```
 ## Uml Class Diagram:
+
+
+![Capture](https://github.com/user-attachments/assets/8b94436d-4f83-422c-9e31-e12e535ea19d)
